@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mobile Mouse</string>
+    <string name="mouse_icon">mouse_icon</string>
+    <string name="history">History</string>
+    <string name="ip_address">IP address</string>
+    <string name="port_number">Port Number</string>
+    <string name="connect">Connect</string>
+    <string name="or">OR</string>
+    <string name="qr_scan">Scan QR</string>
+    <string name="exit">Exit</string>
+    <string name="setting">Setting</string>
+    <string name="default_ip">192.168.43.41</string>
+    <string name="default_port">6666</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="choose_one_of_the_program">Choose one of the Program</string>
+    <string name="mouse">Mouse</string>
+    <string name="bluetooth">Bluetooth</string>
+</resources>
